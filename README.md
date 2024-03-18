@@ -24,6 +24,24 @@ This repository contains the analysis conducted by Peter Pandey, Data Analyst at
 
 3. **Product and Category Analysis:** Investigated sales trends and performance of AtliQ branded products across various categories.
 
+**AD HOC Insights**
+
+1. List of Products with base price more than 500 and featured in Promo_type as 'BOGOF'.
+
+![image](https://github.com/sprashant19/Analyse-Promotions-provide-tangible-insights-to-Sales-Director/assets/95329476/b0feebe9-2a15-462d-b9a3-2612e6c2c034)
+
+2. Overview of Number of Stores in Each City
+
+![image](https://github.com/sprashant19/Analyse-Promotions-provide-tangible-insights-to-Sales-Director/assets/95329476/36e58b0f-2130-4c4f-bd8c-cc4b0a33c891)
+
+3. Total Revenue of Each Campaign before and after the Promotion.
+
+![image](https://github.com/sprashant19/Analyse-Promotions-provide-tangible-insights-to-Sales-Director/assets/95329476/08e68168-586c-4cdc-b23b-00d3c8314f94)
+
+
+
+
+
 
 **Power BI Dashboards:**
 
